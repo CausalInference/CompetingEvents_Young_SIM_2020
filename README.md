@@ -1,6 +1,6 @@
 # CompetingEvents_Young_SIM_2020
 
-Code used in the paper: 
+R code used in the paper: 
   Young JG, Stensrud MJ, Tchetgen Tchetgen EJ, Hernán MA. 
   A causal framework for classical statistical estimands in failure time settings with competing events. 
   Statistics in Medicine 2020
